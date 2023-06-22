@@ -56,8 +56,8 @@ Join my journey into the data, analyze customer behavior, and unlock insights th
 ## 3. File Descriptions <a name="desc"></a>
 
 - Jupyter Notebook that contain work related for this project was uploaded using `.ipynb` file.
-- If you would like to access the datasets to explore more analysis, you can find `profile.json` , `portfolio.json` , and `transcript.json` file.
-- To access all details about project workspace and datasets that I mentioned above, you can find in `Starbucks_capstone_challenge.ipynb`.
+- If you would like to access the datasets to explore more analysis, you can find data folder contains `profile.json` , `portfolio.json` , `transcript.json`, `first_interaction.pkl`, and `second_interaction.pkl`.
+- To access all details about project workspace and datasets that I mentioned above, you can find `Starbucks_capstone_challenge.ipynb`.
 
 ## 4. Results <a name="results"></a>
 
