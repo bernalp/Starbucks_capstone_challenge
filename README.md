@@ -15,6 +15,34 @@
 
 ## 1. Installation <a name="installation"></a>
 
+I developed this project using Python 3.11.3 and list libraries that I've been used are:
+
+    - pandas
+    - numpy
+    - math
+    - json
+    - %matplotlib inline
+    - seaborn
+    - matplotlib.pyplot
+    - collections.Counter
+    - sklearn.model_selection.train_test_split
+    - sklearn.linear_model.LogisticRegression
+    - sklearn.dummy.DummyClassifier
+    - sklearn.pipeline.Pipeline
+    - sklearn.model_selection.GridSearchCV
+    - sklearn.metrics.accuracy_score
+    - sklearn.metrics.confusion_matrix
+    - sklearn.metrics.classification_report
+    - sklearn.preprocessing.MinMaxScaler
+    - sklearn.utils.resample
+    - lightgbm
+    - sklearn.metrics.accuracy_score
+    - sklearn.metrics.precision_score
+    - sklearn.metrics.recall_score
+    - sklearn.metrics.f1_score
+
+These libraries have been used for various purposes throughout the project, including data manipulation, visualization, machine learning, evaluation, and more.
+
 ## 2. Project Motivation <a name="motivation"></a>
 
 This is the final project from Udacity "Data Science Nanodegree Program" that aims to explore and uncover valuable insights into customer behavior and offer effectiveness. By examining key questions such as the popularity of different offer types, customer reactions to offers, and the impact of offer visibility, it can improve Starbucks customer base startegy.
@@ -29,7 +57,7 @@ Join my journey into the data, analyze customer behavior, and unlock insights th
 
 - Jupyter Notebook that contain work related for this project was uploaded using `.ipynb` file.
 - If you would like to access the datasets to explore more analysis, you can find `profile.json` , `portfolio.json` , and `transcript.json` file.
-- To access all details about project workspace and datasets that I mentioned above, you can find in `Starbucks_capstone_challenge.ipynb`
+- To access all details about project workspace and datasets that I mentioned above, you can find in `Starbucks_capstone_challenge.ipynb`.
 
 ## 4. Results <a name="results"></a>
 
