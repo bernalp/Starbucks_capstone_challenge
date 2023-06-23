@@ -61,6 +61,8 @@ Join my journey into the data, analyze customer behavior, and unlock insights th
 
 ## 4. Results <a name="results"></a>
 
+You can also find the result on [Medium blogpost](https://medium.com/@bernalp/starbucks-offers-23466719232b).
+
 Based on my analysis of the Starbucks Challenge project, I've arrived at following conclusions and recommendations:
 
 1. Customers with incomplete profiles and those who joined earlier are less likely to use offers. This suggests that targeting efforts should focus on customers with complete profiles and newer members to increase offer utilization.
